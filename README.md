@@ -2,41 +2,27 @@
 
 🛒 E-Commerce Frontend (TypeScript)
 
-Frontend aplikasi E-Commerce Website dengan dukungan TypeScript.
-Saat ini project menggunakan mock data untuk menampilkan produk, sehingga belum sepenuhnya terhubung ke backend.
+Frontend for an E-Commerce Website built with TypeScript.
+Currently, the project uses mock data to display products and is not yet fully connected to a backend API.
 
-🚀 Fitur Utama
+🚀 Features
 
-🔍 Pencarian & Filter Produk berdasarkan kategori (mock).
+* 🔍 Product Search & Filtering by category (mock)
+* 🛍️ Shopping Cart with real-time item updates
+* ❤️ Wishlist / Favorites
+* 🔐 Authentication (dummy state): Login, Register, Logout
+* 💳 Checkout (mock) with static data
+* 📦 Order History (mock) to track past purchases
+* 📱 Responsive UI (mobile-first design)
 
-🛍️ Keranjang Belanja (update jumlah produk real-time).
+🛠️ Tech Stack
 
-❤️ Wishlist Produk.
+This project is built with:
+⚛️ React + TypeScript
+⚡ Vite for fast development
+🎨 Tailwind CSS for styling
 
-🔐 Autentikasi (dummy state) (Login, Register, Logout).
+📜 License
 
-💳 Checkout (mock) dengan data statis.
-
-📦 Order History (mock) untuk melacak pesanan.
-
-📱 Responsive UI (mobile-first).
-
-🛠️ Teknologi
-
-Project ini dibangun dengan:
-
-⚛️ React
- + TypeScript
-
-⚡ Vite
- untuk development cepat
-
-🎨 Tailwind CSS
- untuk styling
-
-🔄 Axios / Fetch API (disiapkan untuk integrasi backend, tapi saat ini masih mock)
-
-📦 State Management: Redux Toolkit
- atau Zustand
-
-🧹 ESLint + Prettier
+This project is for learning and portfolio purposes.
+Feel free to use, modify, and extend it as needed.
