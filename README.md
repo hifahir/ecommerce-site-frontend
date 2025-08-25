@@ -13,7 +13,6 @@ Currently, the project uses mock data to display products and is not yet fully c
 * 🔐 Authentication (dummy state): Login, Register, Logout
 * 💳 Checkout (mock) with static data
 * 📦 Order History (mock) to track past purchases
-* 📱 Responsive UI (mobile-first design)
 
 🛠️ Tech Stack
 
