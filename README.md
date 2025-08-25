@@ -18,9 +18,9 @@ Currently, the project uses mock data to display products and is not yet fully c
 🛠️ Tech Stack
 
 This project is built with:
-⚛️ React + TypeScript
-⚡ Vite for fast development
-🎨 Tailwind CSS for styling
+* ⚛️ React + TypeScript
+* ⚡ Vite for fast development
+* 🎨 Tailwind CSS for styling
 
 📜 License
 
